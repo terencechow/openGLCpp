@@ -12,4 +12,8 @@ Installing glfw on mac
 
 compile with:
 
-g++ main.cpp -lglfw3 -framework Cocoa -framework OpenGL -framework CoreVideo -framework IOKit -o build
+`g++ main.cpp -lglfw3 -framework Cocoa -framework OpenGL -framework CoreVideo -framework IOKit -o build`
+
+run with:
+
+`./build`
